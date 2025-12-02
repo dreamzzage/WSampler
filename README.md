@@ -23,5 +23,5 @@ you will ALSO NEED FFMPEG installed and added to PATH
 After this, now you can execute the exe.
 
 ### Preview:
-!(https://github.com/dreamzzage/WSampler/blob/main/1.png)
-!(https://github.com/dreamzzage/WSampler/blob/main/2.png)
+![preview1](https://github.com/dreamzzage/WSampler/blob/main/1.png)
+![preview2](https://github.com/dreamzzage/WSampler/blob/main/2.png)
