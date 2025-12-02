@@ -1,4 +1,4 @@
-# NoisRemoval
+# WSampler
 A simple and lightweight Python made UTAU voicebank configuration tool. Similar to Set-Param.
 This was made as an experiment on coding, PLEASE do NOT take it seriously, i am pretty new to coding.
 
